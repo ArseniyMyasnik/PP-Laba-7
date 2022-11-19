@@ -1,0 +1,182 @@
+Sat Nov 19 16:56:36 2022
+Vvedite koordinatu x dlya pervoj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:56:36 2022
+Pol'zovatel' vvel: 1
+Sat Nov 19 16:56:37 2022
+Vvedite koordinatu y dlya pervoj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:56:37 2022
+Pol'zovatel' vvel: 2
+Sat Nov 19 16:56:37 2022
+Vvedite tip figury, dlya etogo vyberite cifru
+Sat Nov 19 16:56:37 2022
+1 - ferz'
+Sat Nov 19 16:56:37 2022
+2 - lad'ya
+Sat Nov 19 16:56:37 2022
+3 - slon
+Sat Nov 19 16:56:37 2022
+4 - kon'
+Sat Nov 19 16:56:38 2022
+Vvedite koordinatu x dlya vtoroj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:56:40 2022
+Pol'zovatel' vvel: 4
+Sat Nov 19 16:56:40 2022
+Vvedite koordinatu y dlya vtoroj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:56:40 2022
+Pol'zovatel' vvel: 5
+Sat Nov 19 16:56:40 2022
+Vvedite tip figury, dlya etogo vyberite cifru
+Sat Nov 19 16:56:40 2022
+1 - ferz'
+Sat Nov 19 16:56:40 2022
+2 - lad'ya
+Sat Nov 19 16:56:40 2022
+3 - slon
+Sat Nov 19 16:56:40 2022
+4 - kon'
+Sat Nov 19 16:56:43 2022
+Pol'zovatel' vvel: 2
+Sat Nov 19 16:56:43 2022
+Pervaya figura stoit na beloj kletke
+Sat Nov 19 16:56:43 2022
+Vtoraya figura stoit na beloj kletke
+Sat Nov 19 16:56:43 2022
+Obe figury stoyat na kletkah odinakovogo cveta
+Sat Nov 19 16:56:43 2022
+Vtoraya figura nahoditsya pod udarom ferzya
+Sat Nov 19 16:58:35 2022
+Vvedite koordinatu x dlya pervoj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:58:35 2022
+Pol'zovatel' vvel: 3
+Sat Nov 19 16:58:35 2022
+Vvedite koordinatu y dlya pervoj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:58:35 2022
+Pol'zovatel' vvel: 7
+Sat Nov 19 16:58:35 2022
+Vvedite tip figury, dlya etogo vyberite cifru
+Sat Nov 19 16:58:35 2022
+1 - ferz'
+Sat Nov 19 16:58:35 2022
+2 - lad'ya
+Sat Nov 19 16:58:35 2022
+3 - slon
+Sat Nov 19 16:58:35 2022
+4 - kon'
+Sat Nov 19 16:58:36 2022
+Vvedite koordinatu x dlya vtoroj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:58:36 2022
+Pol'zovatel' vvel: 5
+Sat Nov 19 16:58:36 2022
+Vvedite koordinatu y dlya vtoroj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:58:37 2022
+Pol'zovatel' vvel: 2
+Sat Nov 19 16:58:37 2022
+Vvedite tip figury, dlya etogo vyberite cifru
+Sat Nov 19 16:58:37 2022
+1 - ferz'
+Sat Nov 19 16:58:37 2022
+2 - lad'ya
+Sat Nov 19 16:58:37 2022
+3 - slon
+Sat Nov 19 16:58:37 2022
+4 - kon'
+Sat Nov 19 16:58:37 2022
+Pol'zovatel' vvel: 4
+Sat Nov 19 16:58:37 2022
+Pervaya figura stoit na chernoj kletke
+Sat Nov 19 16:58:37 2022
+Vtoraya figura stoit na beloj kletke
+Sat Nov 19 16:58:37 2022
+Obe figury stoyat na kletkah raznogo cveta
+Sat Nov 19 16:58:37 2022
+Vtoraya figura ne nahoditsya pod udarom ferzya
+Sat Nov 19 16:59:04 2022
+Vvedite koordinatu x dlya pervoj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:59:04 2022
+Pol'zovatel' vvel: 5
+Sat Nov 19 16:59:05 2022
+Vvedite koordinatu y dlya pervoj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:59:05 2022
+Pol'zovatel' vvel: 10
+Sat Nov 19 16:59:05 2022
+Vvedite cifru ot 1 do 8!
+Sat Nov 19 16:59:07 2022
+Vvedite koordinatu x dlya pervoj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:59:07 2022
+Pol'zovatel' vvel: 1
+Sat Nov 19 16:59:17 2022
+Vvedite koordinatu y dlya pervoj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:59:17 2022
+Pol'zovatel' vvel: 2
+Sat Nov 19 16:59:17 2022
+Vvedite tip figury, dlya etogo vyberite cifru
+Sat Nov 19 16:59:17 2022
+1 - ferz'
+Sat Nov 19 16:59:17 2022
+2 - lad'ya
+Sat Nov 19 16:59:17 2022
+3 - slon
+Sat Nov 19 16:59:17 2022
+4 - kon'
+Sat Nov 19 16:59:23 2022
+Vvedite cifru v diapazone ot 1 do 4!
+Sat Nov 19 16:59:23 2022
+Vvedite tip figury, dlya etogo vyberite cifru
+Sat Nov 19 16:59:23 2022
+1 - ferz'
+Sat Nov 19 16:59:23 2022
+2 - lad'ya
+Sat Nov 19 16:59:23 2022
+3 - slon
+Sat Nov 19 16:59:23 2022
+4 - kon'
+Sat Nov 19 16:59:25 2022
+Vvedite cifru v diapazone ot 1 do 4!
+Sat Nov 19 16:59:25 2022
+Vvedite tip figury, dlya etogo vyberite cifru
+Sat Nov 19 16:59:25 2022
+1 - ferz'
+Sat Nov 19 16:59:25 2022
+2 - lad'ya
+Sat Nov 19 16:59:25 2022
+3 - slon
+Sat Nov 19 16:59:25 2022
+4 - kon'
+Sat Nov 19 16:59:25 2022
+Vvedite koordinatu x dlya vtoroj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:59:27 2022
+Pol'zovatel' vvel: 5
+Sat Nov 19 16:59:27 2022
+Vvedite koordinatu y dlya vtoroj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:59:28 2022
+Pol'zovatel' vvel: 9
+Sat Nov 19 16:59:28 2022
+Vvedite cifru ot 1 do 8!
+Sat Nov 19 16:59:28 2022
+Vvedite koordinatu x dlya vtoroj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:59:30 2022
+Pol'zovatel' vvel: 5
+Sat Nov 19 16:59:30 2022
+Vvedite koordinatu y dlya vtoroj figury(schitaya dosku I chetvert'yu sistemy koordinat): 
+Sat Nov 19 16:59:31 2022
+Pol'zovatel' vvel: 8
+Sat Nov 19 16:59:31 2022
+Vvedite tip figury, dlya etogo vyberite cifru
+Sat Nov 19 16:59:31 2022
+1 - ferz'
+Sat Nov 19 16:59:31 2022
+2 - lad'ya
+Sat Nov 19 16:59:31 2022
+3 - slon
+Sat Nov 19 16:59:31 2022
+4 - kon'
+Sat Nov 19 16:59:32 2022
+Pol'zovatel' vvel: 4
+Sat Nov 19 16:59:32 2022
+Pervaya figura stoit na beloj kletke
+Sat Nov 19 16:59:32 2022
+Vtoraya figura stoit na beloj kletke
+Sat Nov 19 16:59:32 2022
+Obe figury stoyat na kletkah odinakovogo cveta
+Sat Nov 19 16:59:32 2022
+Vtoraya figura ne nahoditsya pod udarom ferzya
